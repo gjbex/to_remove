@@ -3,3 +3,5 @@
 This is for Version control with git.
 
 Some more explanations about this project.
+
+Add some more stuff.
