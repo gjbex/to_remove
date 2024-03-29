@@ -1,2 +1,3 @@
-# to_remove
-Demo repository
+# To remove
+
+Demo repository for a demo.
