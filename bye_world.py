@@ -1,3 +1,5 @@
 #!/usr/bin/env python
 
-print('bye world!')
+import sys
+
+print(f'bye {sys.argv[1]}!')
